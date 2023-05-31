@@ -8,7 +8,7 @@ class Answer extends Sum{
 
     public static void main(String[] args) {
         Sum s=new Sum();
-        int ans= s.add(4,5);
+        int ans= s.add(4,9);
         System.out.println(ans);
     }
 }
